@@ -37,14 +37,14 @@ export const ProfileCard = ({ profile, rank }) => {
     setSortedPosts([]);
     setLoading(true);
     setUrl(`${backendUrl}api/profiles/${p.id}/posts/`);
-    setQues([true, false, false, false]);
+    setQues([false, false, true, false]);
     setLoading(false);
   };
   const first = () => {
     setSortedPosts([]);
     setLoading(true);
     setUrl(`${backendUrl}api/profiles/${p.id}/saved-posts/`);
-    setQues([false, false, true, false]);
+    setQues([true, false, false, false]);
     setLoading(false);
   };
   const fourth = () => {

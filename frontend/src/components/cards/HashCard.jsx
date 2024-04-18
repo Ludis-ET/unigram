@@ -96,10 +96,7 @@ export const HashCard = ({ h }) => {
     }
   };
   return (
-    <Link
-      to={`/hashtags/${h.id}`}
-      className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
-    >
+    <div className="max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
       <span className="w-7 h-7 text-gray-500 dark:text-gray-400 mb-3 material-symbols-outlined">
         tag
       </span>
@@ -139,11 +136,12 @@ export const HashCard = ({ h }) => {
       ) : (
         <button
           type="button"
+          onClick={unsub}
           className="text-white bg-gradient-to-r flex from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
         >
-          Subscribe
+          Unsubscribe
         </button>
       )}
-    </Link>
+    </div>
   );
 };
