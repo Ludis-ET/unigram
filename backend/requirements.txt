@@ -4,6 +4,7 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 cryptography==42.0.5
 defusedxml==0.8.0rc2
+distlib==0.3.8
 Django==4.2.11
 django-cors-headers==4.3.1
 django-debug-toolbar==4.3.0
@@ -14,11 +15,14 @@ djangorestframework-simplejwt==5.3.1
 djoser==2.2.2
 drf-nested-routers==0.93.5
 drf-yasg==1.21.7
+filelock==3.13.4
+gunicorn==22.0.0
 idna==3.6
 inflection==0.5.1
 oauthlib==3.2.2
 packaging==24.0
 pillow==10.2.0
+platformdirs==4.2.0
 psycopg2-binary==2.9.9
 pycparser==2.21
 PyJWT==2.8.0
@@ -35,3 +39,4 @@ sqlparse==0.4.4
 tzdata==2024.1
 uritemplate==4.1.1
 urllib3==2.2.1
+virtualenv==20.25.1
