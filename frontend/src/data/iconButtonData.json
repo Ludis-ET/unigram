@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "label": "Delete",
+    "accessibleText": "delete your comment",
+    "address": "/images/icon-delete.svg",
+    "textColor": "soft-red",
+    "width": "12",
+    "height": "14"
+  },
+  {
+    "id": 2,
+    "label": "Edit",
+    "accessibleText": "edit your comment",
+    "address": "/images/icon-edit.svg",
+    "textColor": "moderate-blue",
+    "width": "14",
+    "height": "14"
+  },
+  {
+    "id": 3,
+    "label": "Reply",
+    "accessibleText": "reply to this comment",
+    "address": "/images/icon-reply.svg",
+    "textColor": "moderate-blue",
+    "width": "14",
+    "height": "13"
+  }
+]

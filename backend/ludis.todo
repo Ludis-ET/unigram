@@ -1,0 +1,38 @@
+1- home page
+    header
+        - navigations
+        - notificaion viewed
+            -notificaion page
+        - points and votes
+        - ask question
+        - dropdown
+        -search functionality
+            -search page
+    - left bar
+        - popular communities
+        - about us
+    - right bar
+        - leader board with community
+    - tags
+        -tag page
+    - responsive design
+
+2- question detail page
+    - question
+    - comment
+    - related questions
+
+4- static pages
+4- error pages
+5- profile page and community pages
+       => total information about the total upvotes, downvotes, badges,....
+       =>question posted
+       => question answered ......
+4- forms
+      =>adding a question
+      =>user setting
+      => adding files
+
+3-  files list and files detail
+       => allow user to download in the list 
+        => create a comment section for the file with details
