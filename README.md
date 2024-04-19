@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ludis-et/ha-belu">
-    <img src="https://github.com/Ludis-ET/Best-README-Template/blob/master/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Ha Belu School Management System</h3>
