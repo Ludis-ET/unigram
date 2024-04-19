@@ -19,7 +19,7 @@
   <h3 align="center">Unigram</h3>
 
   <p align="center">
-    A comprehensive educational platform that empowers students to check results, chat, and access courses, while providing teachers, managers, and staff with tools to manage content, results, and overall website settings.
+    Unigram is a platform designed to facilitate student collaboration by providing a space for asking questions, sharing answers, and accessing school files.
     <br />
     <a href="https://github.com/Ludis-et/unigram"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,7 +64,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-[product-screenshot]: media/readme/home-page.png
+[product-screenshot]: assets/video/unigram.mp4
 [![Product Name Screen Shot][product-screenshot]](media/readme/home-page.png)
 
 ## About The Project
