@@ -65,11 +65,11 @@
 <!-- ABOUT THE PROJECT -->
 
 [product-screenshot]: assets/video/unigram.mp4
-[![Product Name Screen Shot][product-screenshot]](media/readme/home-page.png)
+[![Product Name Screen Shot][product-screenshot]](assets/video/unigram.mp4)
 
 ## About The Project
 
-For visitors who haven't logged in yet, our website offers a welcoming environment filled with valuable content. They have unrestricted access to browse through a variety of informative blog posts, gaining insights into educational topics and the latest updates. Additionally, unregistered users can directly communicate with the manager, providing a channel for inquiries, feedback, or any assistance they may require. Creating an account is a seamless process, allowing individuals to become part of our educational community, unlocking personalized features and accessing a plethora of resources. Should they ever encounter difficulties with account access, our user-friendly system facilitates a straightforward account recovery process, ensuring a hassle-free experience for every user interacting with our platform.
+Unigram is a dynamic platform that revolutionizes student collaboration and academic support within educational settings. It offers a seamless experience where students can engage in asking and answering questions, sharing vital resources, and cultivating a sense of communal learning. With a user-friendly interface and robust features like intuitive search functionality and personalized user profiles, Unigram empowers students to actively participate in knowledge exchange. Built on modern web technologies including React.js, Node.js, and MongoDB, Unigram ensures a responsive and efficient platform for facilitating meaningful interactions among peers. Join us in shaping the future of collaborative learning by contributing to Unigram today.
 
 
 [product-screenshott]: media/readme/student-dashboard.png
